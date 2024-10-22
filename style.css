@@ -1,0 +1,22 @@
+body{
+text-align: center;
+color: rgb(211, 131, 198);
+    background-image: url(lindo-coquete-padrao-sem-costura-laco-de-fita-rosa-isolado-no-fundo-branco_44161-2437.avif);
+}
+.c1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    
+}
+img{
+    width: 67%;
+    margin: 0%;
+}
+.c2{
+   grid-column: span 2;
+  
+}
+.c3 {
+    height: 100%;
+    width: 900px;
+}
